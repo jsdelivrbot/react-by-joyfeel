@@ -1,0 +1,1 @@
+module.exports = require("npm:array-find@1.0.0/find.js");

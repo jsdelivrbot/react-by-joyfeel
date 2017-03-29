@@ -1,0 +1,1 @@
+module.exports = require("npm:babel-plugin-flow-comments@1.0.9/lib/index.js");

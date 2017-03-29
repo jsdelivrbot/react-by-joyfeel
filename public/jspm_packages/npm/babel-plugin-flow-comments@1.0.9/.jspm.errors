@@ -1,0 +1,66 @@
+MultipleErrors: /home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:1:1: Unexpected reserved word export
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:1:8: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:1:13: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:2:1: Unexpected reserved word export
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:2:8: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:2:13: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:4:12: Unexpected token ?
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:4:13: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:4:13: Unexpected token :
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:4:15: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/export-type-alias/actual.js:8:1: Unexpected token }
+
+MultipleErrors: /home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:1:1: Unexpected reserved word import
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:1:8: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:1:12: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:1:17: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:2:1: Unexpected reserved word import
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:2:8: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:2:13: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:2:25: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:2:30: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:3:1: Unexpected reserved word import
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:3:8: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:3:27: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/import-type-alias/actual.js:3:32: Semi-colon expected
+
+MultipleErrors: /home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-parameters/actual.js:1:22: Unexpected token ?
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-parameters/actual.js:1:23: Unexpected token :
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-parameters/actual.js:1:31: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-parameters/actual.js:1:31: Unexpected token )
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-parameters/actual.js:1:33: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-parameters/actual.js:2:1: Unexpected token End of File
+
+MultipleErrors: /home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:1:17: Unexpected token ?
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:1:18: Unexpected token )
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:2:18: Unexpected token ?
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:2:19: Unexpected token :
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:2:27: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:2:27: Unexpected token )
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:2:29: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:3:1: Unexpected token End of File
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/optional-type/actual.js:3:1: Unexpected token End of File
+
+MultipleErrors: /home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias-with-comment/actual.js:1:6: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias-with-comment/actual.js:2:6: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias-with-comment/actual.js:3:6: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias-with-comment/actual.js:5:13: Unexpected token ;
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias-with-comment/actual.js:6:1: Unexpected token }
+
+MultipleErrors: /home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias/actual.js:2:6: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias/actual.js:3:6: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias/actual.js:4:15: Unexpected token ;
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-alias/actual.js:5:1: Unexpected token }
+
+MultipleErrors: /home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-cast/actual.js:1:11: Unexpected token :
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-cast/actual.js:2:12: Unexpected token :
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type-cast/actual.js:2:18: Unexpected token :
+
+MultipleErrors: /home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type/actual.js:1:15: Unexpected token :
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type/actual.js:1:17: Unexpected token number
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type/actual.js:1:23: Unexpected token )
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type/actual.js:1:24: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type/actual.js:1:24: Unexpected token :
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type/actual.js:1:26: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type/actual.js:1:33: Semi-colon expected
+/home/via/.jspm/packages/npm/babel-plugin-flow-comments@1.0.9/test/fixtures/type/actual.js:2:1: Unexpected token End of File

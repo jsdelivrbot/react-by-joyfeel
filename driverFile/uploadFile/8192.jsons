@@ -1,0 +1,1 @@
+[{"fileBoxContent":["RPMB_KEY_32","RPMB_DATA_8192_patter_1","RPMB_NONCE_16"],"name":"RPMB Write Data (Multi)","command":"79","fileBox":["key","data(1, 2, 32)","readNonce"],"dbgfsFile":"rpmb_write_data","timestamp":1417504080777,"textBoxContent":["1f00","10"],"category":"Hg","textBox":["startAddr(hex)","count(dec)"]}]

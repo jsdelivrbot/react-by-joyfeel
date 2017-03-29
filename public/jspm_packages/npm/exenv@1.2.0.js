@@ -1,0 +1,1 @@
+module.exports = require("npm:exenv@1.2.0/index.js");
